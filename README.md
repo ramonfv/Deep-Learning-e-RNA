@@ -1,8 +1,10 @@
 # Deep-Learning-e-RNA
 Contextualização e modelagem de neurônios artificiais e redes neurais artificiais. Redes neurais feedforward: multilayer perceptron, rede de base radial, máquinas de aprendizado extremo, redes convolucionais. Redes recorrentes. Deep Learning
 
-#Conteúdo programático:
+Conteúdo programático:
+
 1 - Breve revisão de álgebra linear utilizando o Python
+
 2. Introdução às redes neurais
 a) O que é uma rede neural artificial?
 b) O cérebro humano e modelos de um neurônio
